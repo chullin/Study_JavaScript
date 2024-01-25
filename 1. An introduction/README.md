@@ -60,7 +60,7 @@ No, I don't think so，Vim 超難用
 * Window：F12
 * Mac：Cmd+Opt+J
 
-![Alt text](pic/image-1.png =100x100)
+![Alt text](pic/image-1.png)
 
 在底下 Console，有顯示錯，點下去，會跳轉到 Sources
 ![Alt text](pic/image-2.png)
